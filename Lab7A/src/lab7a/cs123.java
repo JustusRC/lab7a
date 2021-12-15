@@ -1,5 +1,3 @@
-package lab7a;
-
 public class cs123 {
 
 	public static void main(String[] args) {
@@ -12,18 +10,6 @@ public class cs123 {
 			{
 				System.out.println(i+" "+Grades[i]);
 			}
-		
-		
-		
-		
-		
-	
-		
-		
-		
-		
-		
-
 	}
 
 }
